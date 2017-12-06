@@ -1,0 +1,35 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+    <session-factory>   
+
+        <!-- 声明数据库连接参数 -->
+
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+
+        <property name="connection.url">jdbc:mysql://localhost:3306/kr</property>
+
+        <property name="connection.username">root</property>
+
+        <property name="connection.password">kr123456</property>
+
+        <!-- SQL数据方言 -->
+
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+
+        <!-- 配置控制台是否展示sql -->
+
+        <property name="show_sql">true</property>
+
+        <!-- 与数据库里的表进行映射 -->
+
+        <mapping resource="com/model/Custom.hbm.xml"/>
+
+    </session-factory>
+
+</hibernate-configuration>

@@ -1,5 +1,6 @@
 package cn.hh.serviceImpl;
 
-public class CustomServiceImpl {
-
+public interface CustomServiceImpl {
+	public int addCus();
+	public int deleteCus();
 }

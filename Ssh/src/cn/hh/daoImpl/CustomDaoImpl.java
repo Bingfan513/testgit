@@ -1,5 +1,8 @@
 package cn.hh.daoImpl;
 
-public class CustomDaoImpl {
+import cn.hh.model.Custom;
 
+public interface CustomDaoImpl {
+	public int addCus();
+	public int deleteCus();
 }

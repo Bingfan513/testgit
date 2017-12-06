@@ -67,5 +67,6 @@
 	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-json-plugin-2.2.1.jar"/>
 	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-spring-plugin-2.3.1.2.jar"/>
 	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/xwork-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/mysql-connector-java-5.1.21-bin.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

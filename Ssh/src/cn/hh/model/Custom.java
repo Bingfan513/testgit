@@ -28,7 +28,4 @@ public class Custom {
 	public void setSex(String sex) {
 		this.sex = sex;
 	}
-	
-	
-	
 }

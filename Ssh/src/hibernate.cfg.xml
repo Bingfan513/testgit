@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE hibernate-configuration PUBLIC
 
         "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
@@ -28,7 +29,7 @@
 
         <!-- 与数据库里的表进行映射 -->
 
-        <mapping resource="com/model/Custom.hbm.xml"/>
+        <mapping resource="cn/hh/model/Custom.hbm.xml"/>
 
     </session-factory>
 

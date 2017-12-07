@@ -13,60 +13,285 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/antlr-2.7.6.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/commons-collections-3.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/hibernate3.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/javassist-3.9.0.GA.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/jta-1.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/slf4j-api-1.5.8.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/slf4j-nop-1.5.8.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/antlr-2.7.2.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/aopalliance-1.0.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/classworlds-1.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/com.springsource.org.aopalliance-1.0.0.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-beanutils-1.7.0.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-chain-1.2.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-collections-3.2.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-digester-2.0.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-fileupload-1.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-io-1.3.2.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-lang-2.3.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-logging-1.0.4.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-logging-api-1.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-validator-1.3.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/freemarker-2.3.16.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/javassist-3.7.ga.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/json-lib-2.1-jdk15.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/ognl-3.0.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/oro-2.0.8.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-aop-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-aspects-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-beans-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-build-src-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-context-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-context-support-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-core-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-expression-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-instrument-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-instrument-tomcat-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-jdbc-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-jms-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-orm-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-oxm-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-struts-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-test-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-tx-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-web-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-webmvc-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-webmvc-portlet-3.2.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/sslext-1.2-0.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-convention-plugin-2.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-core-2.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-embeddedjsp-plugin-2.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-json-plugin-2.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-spring-plugin-2.3.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/xwork-core-2.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/antlr-2.7.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/commons-collections-3.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/dom4j-1.6.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/hibernate3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/javassist-3.9.0.GA.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/jta-1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/slf4j-api-1.5.8.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/hibernate_main_jar/slf4j-nop-1.5.8.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/antlr-2.7.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/aopalliance-1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/classworlds-1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/com.springsource.org.aopalliance-1.0.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-beanutils-1.7.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-chain-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-collections-3.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-digester-2.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-fileupload-1.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-io-1.3.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-lang-2.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-logging-1.0.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-logging-api-1.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/commons-validator-1.3.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/freemarker-2.3.16.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/javassist-3.7.ga.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/json-lib-2.1-jdk15.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/ognl-3.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/oro-2.0.8.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-aop-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-aspects-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-beans-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-build-src-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-context-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-context-support-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-core-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-expression-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-instrument-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-instrument-tomcat-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-jdbc-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-jms-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-orm-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-oxm-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-struts-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-test-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-tx-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-web-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-webmvc-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/spring-webmvc-portlet-3.2.4.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/sslext-1.2-0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-convention-plugin-2.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-core-2.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-embeddedjsp-plugin-2.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-json-plugin-2.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/struts2-spring-plugin-2.3.1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/springstruts2整合jar包/xwork-core-2.2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/mysql-connector-java-5.1.21-bin.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/慧慧/工具包/ssh_libs/commons-pool-1.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

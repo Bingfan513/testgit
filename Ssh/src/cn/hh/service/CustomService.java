@@ -16,13 +16,13 @@ public class CustomService implements CustomServiceImpl{
 	}
 
 	@Override
-	public int addCus() {
+	public boolean addCus() {
 		// TODO Auto-generated method stub
 		return customdao.addCus();
 	}
 
 	@Override
-	public int deleteCus() {
+	public boolean deleteCus() {
 		// TODO Auto-generated method stub
 		return customdao.deleteCus();
 	}

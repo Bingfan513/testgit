@@ -20,8 +20,8 @@
 
 
 <!-- get、set注入 -->
-	<bean id="CustomDaoImpl" class="cn.hh.daoImpl.CustomDaoImpl"></bean>
- 	<bean id="CustomService" class="cn.hh.serviceImpl.CustomServiceImpl">
-    	<property name="CustomDao" ref="CustomDaoImpl"></property>
+	<bean id="Customdao" class="cn.hh.dao.CustomDao"></bean>
+ 	<bean id="CustomService" class="cn.hh.service.CustomService">
+    	<property name="customdao" ref="Customdao"></property>
     </bean>
 </beans>

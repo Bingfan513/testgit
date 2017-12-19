@@ -15,13 +15,13 @@ public class CustomAction {
 	
 	
 	//添加客户
-	public int addCus(){
+	public boolean addCus(){
 		return customService.addCus();
 	}
 	
 	
 	//删除客户
-	public int deleteCus(){
+	public boolean deleteCus(){
 		return customService.deleteCus();
 		
 	}

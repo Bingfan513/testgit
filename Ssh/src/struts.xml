@@ -3,9 +3,7 @@
    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
    "http://struts.apache.org/dtds/struts-2.0.dtd">
 <struts>
-<!-- 	<package  name="UserAction" extends="struts-default">   	 -->
-<!-- 		<action name="say" class="UserAction" method="say"></action> -->
-<!-- 	</package>  -->
+
 	
 	<package  name="CustomAction" extends="struts-default">   	
 		<action name="addCus" class="cn.hh.action.CustomAction" method="addCus"></action>
